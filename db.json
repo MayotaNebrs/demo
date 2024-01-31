@@ -1,12 +1,19 @@
 {
   "products": [
-    { "name": "Бургер", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
-    { "name": "Бургер2", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
-    { "name": "Бургер3", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
-    { "name": "Бургер4", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
-    { "name": "Бургер5", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
-    { "name": "Бургер6", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
-    { "name": "Бургер7", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
-    { "name": "Бургер8", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" }
+    [
+      { "name": "Бургер", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
+      { "name": "Бургер2", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
+      { "name": "Бургер3", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
+      { "name": "Бургер4", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
+      { "name": "Бургер5", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
+      { "name": "Бургер6", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
+      { "name": "Бургер7", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" },
+      { "name": "Бургер8", "category": "Продукты", "price": 250000, "img": "https://i.pinimg.com/originals/c8/62/8f/c8628f4cec326f87021462d2a64629a1.png" }
+    ],
+    [
+      { "name": "Газировка", "category": "Напитки", "price": 5000, "img": "https://w7.pngwing.com/pngs/867/586/png-transparent-fizzy-drinks-non-alcoholic-drink-computer-icons-soft-drink-food-rectangle-drinking-straw.png" },
+      { "name": "Лимонад", "category": "Напитки", "price": 123123, "img": "https://w7.pngwing.com/pngs/677/45/png-transparent-lemonade-computer-icons-drink-soft-drink.png" },
+      { "name": "Сода", "category": "Напитки", "price": 50324, "img": "https://e7.pngegg.com/pngimages/624/316/png-clipart-computer-icons-others-miscellaneous-glass.png" }
+    ]
   ]
 }
