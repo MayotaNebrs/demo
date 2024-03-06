@@ -6,6 +6,6 @@
     {}
   ],
   "services": [
-    {"name": "Повысить законность", "type": "services", "price": 100}
+    {"id": 1, "name": "Повысить законность", "type": "service", "price": 100}
   ]
 }
