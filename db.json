@@ -7,7 +7,7 @@
   ],
   "services": [
     {"id": 1, "name": "Повысить законность", "type": "service", "price": 100},
-    {"id": 2, "name": "Доп. слот на транспорт", "type": "service", "price": 100},
+    {"id": 2, "name": "Доп. слот на транспорт", "type": "service", "price": 500},
     {"id": 3, "name": "Уникальный номер ТС", "type": "service", "price": 100},
     {"id": 4, "name": "Все лицензии", "type": "service", "price": 100},
     {"id": 5, "name": "Мед. карта", "type": "service", "price": 100},
