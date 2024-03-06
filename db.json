@@ -6,6 +6,14 @@
     {}
   ],
   "services": [
-    {"id": 1, "name": "Повысить законность", "type": "service", "price": 100}
+    {"id": 1, "name": "Повысить законность", "type": "service", "price": 100},
+    {"id": 2, "name": "Доп. слот на транспорт", "type": "service", "price": 100},
+    {"id": 3, "name": "Уникальный номер ТС", "type": "service", "price": 100},
+    {"id": 4, "name": "Все лицензии", "type": "service", "price": 100},
+    {"id": 5, "name": "Мед. карта", "type": "service", "price": 100},
+    {"id": 6, "name": "Выйти из тюрьмы", "type": "service", "price": 100},
+    {"id": 7, "name": "Снять WARN", "type": "service", "price": 100},
+    {"id": 8, "name": "Снять Мут", "type": "service", "price": 100},
+    {"id": 9, "name": "Сменить пол", "type": "service", "price": 100},
   ]
 }
